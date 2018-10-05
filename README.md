@@ -1,4 +1,4 @@
-# ScriptEd Fan Page!
+# Debra's Fan Page!
 You will be building a fan page for your favorite book, TV show, artist, movie etc... Follow the steps below to make your very own site! 
 Make sure to check off your items as you complete them. [ ] => [x]
 
